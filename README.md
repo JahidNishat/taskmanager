@@ -1,5 +1,5 @@
 # Taskmanager
-**A Task Manger project using MongoDB, Express.js, Node.js and Angular. In this project, we can:**
+**A Task Manager project using MongoDB, Express.js, Node.js and Angular. In this project, we can:**
 - Create a list/task
 - Read a list/task
 - Update a list/task
